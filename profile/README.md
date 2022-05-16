@@ -16,7 +16,7 @@ _Plugins for the Java version of Discord_
 - SendEmbedsExtra: Adds more settings to SendEmbeds that I wasn't allowed to publish 😳
 
 # Aliucord ReactNative
-[Plugins](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins)
+### [Plugins](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins)
 - AtSomeone: \@Someone randomly on the server
 - HiddenChannels: View the name and description of channels you can't access
 - SilentTyping: Makes Discord not send your typing indicator
