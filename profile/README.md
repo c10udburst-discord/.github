@@ -17,6 +17,7 @@ _Plugins for the Java version of Discord_
 
 # Aliucord ReactNative
 ### [Plugins](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins)
+- ViewProfileImages: Allows you to open user or server avatars by tapping them, similar to attachments or embeds.
 - AtSomeone: \@Someone randomly on the server
 - HiddenChannels: View the name and description of channels you can't access
 - SilentTyping: Makes Discord not send your typing indicator
