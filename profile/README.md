@@ -1,6 +1,8 @@
 # [C10udburst](https://github.com/C10udburst)'s Discord related code
 ## [Aliucord RN plugins](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins)
 ![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/Aliucord-RightNow-Plugins?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/Aliucord-RightNow-Plugins?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/Aliucord-RightNow-Plugins?style=plastic)
+<details>
+
 
 - [AtSomeone](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/AtSomeone.js.bundle?raw=true): @Someone randomly on the server
 - [CreateWebhooks](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/CreateWebhooks.js.bundle?raw=true): Create webhooks from the webhook management screens
@@ -11,8 +13,12 @@
 - [UserDetails](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/UserDetails.js.bundle?raw=true): Displays when user created account and joined to server.
 - [ViewProfileImages](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/ViewProfileImages.js.bundle?raw=true): Allows you to open user or server avatars by tapping them, similar to attachments or embeds.
 
+</details>
+
 ## [Plugins for Aliucord Legacy](https://github.com/c10udburst-discord/aliucord-plugins)
 ![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/aliucord-plugins?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/aliucord-plugins?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/aliucord-plugins?style=plastic)
+<details>
+
 
 ### Outdated
 _Discord is completely redoing Android client, therefore these plugins won't work for the new React Native version. You can check out my plugins for the new version [right here](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins#readme)._
@@ -40,15 +46,23 @@ Click on a plugin name to download, and then move the downloaded file to the `Al
 - [SendEmbeds](https://github.com/c10udburst-discord/aliucord-plugins/raw/builds/SendEmbeds.zip) |
   Adds a `/embed` command and a button  which opens an ui which can be used to send embeds (using links and webhooks).
 
+</details>
+
 ## [Extra plugins for Aliucord Legacy](https://github.com/c10udburst-discord/aliucord-sendembeds)
 ![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/aliucord-sendembeds?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/aliucord-sendembeds?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/aliucord-sendembeds?style=plastic)
+<details>
+
 
 Click on a plugin name to download, and then move the downloaded file to the `Aliucord/plugins` folder
 - [SendEmbedsExtra](https://github.com/c10udburst-discord/aliucord-sendembeds/raw/builds/SendEmbedsExtra.zip) |
   Adds a `/embed` command and a button  which opens an ui which can be used to send embeds (using links and webhooks).
 
+</details>
+
 ## [GooseMod plugins](https://github.com/c10udburst-discord/GooseMod-Plugins)
 ![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/GooseMod-Plugins?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/GooseMod-Plugins?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/GooseMod-Plugins?style=plastic)
+<details>
+
 
 - Sessions: Shows you active sessions on your account
 - Token: Get your Discord token via a command.
@@ -63,8 +77,12 @@ Click on a plugin name to download, and then move the downloaded file to the `Al
 
 </details>
 
+</details>
+
 ## [Discord Announcer](https://github.com/c10udburst-discord/discord-announcer)
 ![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/discord-announcer?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/discord-announcer?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/discord-announcer?style=plastic)
+<details>
+
 
 Basically [announcement channels](https://support.discord.com/hc/articles/360032008192-), but for any text channel.
 
@@ -89,8 +107,12 @@ Basically [announcement channels](https://support.discord.com/hc/articles/360032
 
 </details>
 
+</details>
+
 ## [Discord RN Patcher](https://github.com/c10udburst-discord/discord-rn-patcher)
 ![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/discord-rn-patcher?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/discord-rn-patcher?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/discord-rn-patcher?style=plastic)
+<details>
+
 
 Inject [AliucordRN](https://github.com/Aliucord/AliucordRN) into discord's react native alpha using github workflows.
 
@@ -104,6 +126,8 @@ The workflow uses a modified version [xTyman](https://github.com/TymanWasTaken)'
 3. Press run action
 4. ???
 5. profit
+
+</details>
 
 </details>
 
