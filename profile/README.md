@@ -79,18 +79,19 @@ Click on a plugin name to download, and then move the downloaded file to the `Al
 
 </details>
 
-> **Warning**
-
-> Use [Discord Favourites](https://discord.com/channels/@favorites) instead.
 
 ## [Discord Announcer](https://github.com/c10udburst-discord/discord-announcer)
 ![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/discord-announcer?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/discord-announcer?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/discord-announcer?style=plastic)
 <details>
 
 
+> **Note**
+> Consider using [Discord Favourites](https://discord.com/channels/@favorites) instead.
+
 Basically [announcement channels](https://support.discord.com/hc/articles/360032008192-), but for any text channel.
 
-<sub>This requires client token. This can be concidered self-botting and can get your account banned.</sub>
+> **Warning**
+> This requires client token. This can be concidered self-botting and can get your account banned.</sub>
 
 <details>
   <summary>Installation</summary>
@@ -113,14 +114,13 @@ Basically [announcement channels](https://support.discord.com/hc/articles/360032
 
 </details>
 
-> **Warning**
-
-> You will use [AliucordManager](https://github.com/Aliucord/AliucordManager) instead, as it is now usable
-
 ## [Discord RN Patcher](https://github.com/c10udburst-discord/discord-rn-patcher)
 ![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/discord-rn-patcher?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/discord-rn-patcher?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/discord-rn-patcher?style=plastic)
 <details>
 
+
+> **Warning**
+> You will use [AliucordManager](https://github.com/Aliucord/AliucordManager) instead, as it is now usable
 
 Inject [AliucordRN](https://github.com/Aliucord/AliucordRN) into discord's react native alpha using github workflows.
 
