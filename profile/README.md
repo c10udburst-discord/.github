@@ -79,6 +79,10 @@ Click on a plugin name to download, and then move the downloaded file to the `Al
 
 </details>
 
+> **Warning**
+
+> Use [Discord Favourites](https://discord.com/channels/@favorites) instead.
+
 ## [Discord Announcer](https://github.com/c10udburst-discord/discord-announcer)
 ![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/discord-announcer?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/discord-announcer?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/discord-announcer?style=plastic)
 <details>
@@ -108,6 +112,10 @@ Basically [announcement channels](https://support.discord.com/hc/articles/360032
 </details>
 
 </details>
+
+> **Warning**
+
+> You will use [AliucordManager](https://github.com/Aliucord/AliucordManager) instead, as it is now usable
 
 ## [Discord RN Patcher](https://github.com/c10udburst-discord/discord-rn-patcher)
 ![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/discord-rn-patcher?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/discord-rn-patcher?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/discord-rn-patcher?style=plastic)
