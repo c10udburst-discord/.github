@@ -1,19 +1,25 @@
 # [C10udburst](https://github.com/C10udburst)'s Discord related code
-## [Aliucord RN plugins](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins)
-![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/Aliucord-RightNow-Plugins?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/Aliucord-RightNow-Plugins?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/Aliucord-RightNow-Plugins?style=plastic)
+## [Vendetta Plugins](https://github.com/c10udburst-discord/vendetta-plugins)
+![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/vendetta-plugins?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/vendetta-plugins?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/vendetta-plugins?style=plastic)
 <details>
 
+## How to install?
+Paste a plugin URL into the Plugins page of Vendetta, following a basic format of:
 
-- [AtSomeone](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/AtSomeone.zip?raw=true): @Someone randomly on the server
-- [CreateWebhooks](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/CreateWebhooks.zip?raw=true): Create webhooks from the webhook management screens
-- [EmnityCompat](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/EmnityCompat.zip?raw=true): Injects emnity into aliucordrn
-- [HiddenChannels](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/HiddenChannels.zip?raw=true): View the name and description of channels you can't access
-- [MessageLogger](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/MessageLogger.zip?raw=true): Shows deleted/edited messages.
-- [MetroTools](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/MetroTools.zip?raw=true): Useful for devs. Find modules using /commands
-- [SilentTyping](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/SilentTyping.zip?raw=true): Makes Discord not send your typing indicator
-- [Token](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/Token.zip?raw=true): Get your token via the /token command
-- [VendettaCompat](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/VendettaCompat.zip?raw=true): Injects vendetta into aliucordrn
-- [ViewProfileImages](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/ViewProfileImages.zip?raw=true): Allows you to open user or server avatars by tapping them, similar to attachments or embeds.
+https://`YOUR_GITHUB_USERNAME`.github.io/`REPO_NAME`/`PLUGIN_NAME`
+
+## Plugins
+<!-- plugins -->
+- Hidden channels: 
+    > View the name and description of channels you can't access
+    - Install link: `https://c10udburst-discord.github.io/vendetta-plugins/hidden-channels`
+- Create webhooks: 
+    > Create webhooks from the webhook management screen
+    - Install link: `https://c10udburst-discord.github.io/vendetta-plugins/create-webhooks`
+- Delete embeds: 
+    > Adds a msg sheet option to suppress embeds.
+    - Install link: `https://c10udburst-discord.github.io/vendetta-plugins/delete-embeds`
+<!-- plugins -->
 
 </details>
 
@@ -58,6 +64,24 @@ Click on a plugin name to download, and then move the downloaded file to the `Al
 Click on a plugin name to download, and then move the downloaded file to the `Aliucord/plugins` folder
 - [SendEmbedsExtra](https://github.com/c10udburst-discord/aliucord-sendembeds/raw/builds/SendEmbedsExtra.zip) |
   Adds a `/embed` command and a button  which opens an ui which can be used to send embeds (using links and webhooks).
+
+</details>
+
+## [Aliucord RN plugins](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins)
+![GitHub Repo stars](https://img.shields.io/github/stars/c10udburst-discord/Aliucord-RightNow-Plugins?color=gold&style=plastic)  ![GitHub Repo forks](https://img.shields.io/github/forks/c10udburst-discord/Aliucord-RightNow-Plugins?color=%23986ee2&style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/c10udburst-discord/Aliucord-RightNow-Plugins?style=plastic)
+<details>
+
+
+- [AtSomeone](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/AtSomeone.zip?raw=true): @Someone randomly on the server
+- [CreateWebhooks](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/CreateWebhooks.zip?raw=true): Create webhooks from the webhook management screens
+- [EmnityCompat](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/EmnityCompat.zip?raw=true): Injects emnity into aliucordrn, but plugins and themes don't work, since they are handled on the native side.
+- [HiddenChannels](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/HiddenChannels.zip?raw=true): View the name and description of channels you can't access
+- [MessageLogger](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/MessageLogger.zip?raw=true): Shows deleted/edited messages.
+- [MetroTools](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/MetroTools.zip?raw=true): Useful for devs. Find modules using /commands
+- [SilentTyping](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/SilentTyping.zip?raw=true): Makes Discord not send your typing indicator
+- [Token](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/Token.zip?raw=true): Get your token via the /token command
+- [VendettaCompat](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/VendettaCompat.zip?raw=true): Injects vendetta into aliucordrn
+- [ViewProfileImages](https://github.com/c10udburst-discord/Aliucord-RightNow-Plugins/blob/builds/ViewProfileImages.zip?raw=true): Allows you to open user or server avatars by tapping them, similar to attachments or embeds.
 
 </details>
 
