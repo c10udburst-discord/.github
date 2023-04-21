@@ -1,6 +1,6 @@
 #!/bin/bash
 
-repos=("Aliucord-RightNow-Plugins" "aliucord-plugins" "aliucord-sendembeds" "GooseMod-Plugins" "discord-announcer" "discord-rn-patcher")
+repos=("vendetta-plugins" "aliucord-plugins" "aliucord-sendembeds" "Aliucord-RightNow-Plugins" "GooseMod-Plugins" "discord-announcer" "discord-rn-patcher")
 
 echo "# [C10udburst](https://github.com/C10udburst)'s Discord related code" > profile/README.md
 
